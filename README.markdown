@@ -15,8 +15,7 @@ Example Use
 -----------------------------------------------------------------------------------------------------
 > from pythentic_jobs import pythentic
 >
-> # Simply call Pythentic, and pass in your API key.
-> jobs = pythentic("fajsnfjasdnf...")
+> jobs = pythentic(api_key="fajsnfjasdnf...")   
 > jobs.getLocations()
 
 
@@ -31,8 +30,8 @@ Questions, Comments, etc?
 Pythentic Jobs should be simple enough that you would hopefully have no questions, but if you do,
 feel free to hit me up at the following:
 
-GitHub: (Where you're probably reading this)
-Twitter: ( http://twitter.com/ryanmcgrath )
-Email: (ryan [at] venodesigns dot net)
+GitHub: (Where you're probably reading this)   
+Twitter: ( http://twitter.com/ryanmcgrath )   
+Email: (ryan [at] venodesigns dot net)   
 
 Twython is released under an MIT License - see the LICENSE file for more information.
