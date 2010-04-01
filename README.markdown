@@ -34,4 +34,4 @@ GitHub: (Where you're probably reading this)
 Twitter: ( http://twitter.com/ryanmcgrath )   
 Email: (ryan [at] venodesigns dot net)   
 
-Twython is released under an MIT License - see the LICENSE file for more information.
+Pythentic Jobs is released under an MIT License - see the LICENSE file for more information.
